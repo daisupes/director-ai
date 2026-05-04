@@ -123,6 +123,20 @@ The main page stays thin at `app/page.js`. Most product code lives under:
 - `src/lib` for AI prompt helpers, generation context sanitization, provider shaping, and export utilities
 - `app/api` for server-side generation routes
 
+  # Screenshots
+
+### Guided workflow overview
+![Director AI hero](docs/images/director-ai-hero.png)
+
+### Creative brief and setup
+![Creative brief](docs/images/director-ai-brief.png)
+
+### Scene sequence review
+![Scene sequence review](docs/images/director-ai-scene-review.png)
+
+### First-draft outputs
+![Output generation](docs/images/director-ai-outputs.png)
+
 ## Portfolio Framing
 
 Director AI demonstrates:
