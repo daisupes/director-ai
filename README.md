@@ -4,6 +4,12 @@ Director AI is a portfolio prototype for guided AI video pre-production. It help
 
 The project is designed as a premium workflow prototype rather than a production SaaS product. It prioritizes product thinking, guided UX, local-first project state, and safe AI prompt/payload handling.
 
+**Live Demo:** https://director-ai-eta.vercel.app/  
+
+**Repository:** https://github.com/daisupes/director-ai
+
+
+
 ## What It Does
 
 Director AI turns a video idea into a guided planning workflow:
