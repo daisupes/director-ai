@@ -112,6 +112,8 @@ Recommended portfolio deployment settings:
 
 ## Prototype Limitations
 
+The public demo runs in mock mode for a stable, no-cost portfolio experience. The architecture also supports server-side live model integration for controlled demos.
+
 This is intentionally scoped as a portfolio prototype:
 
 - Projects, snapshots, and uploaded reference previews are stored locally in the browser.
